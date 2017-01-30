@@ -1,0 +1,14 @@
+Channel->,310,500,805,405,360,160,170,260,465,820,700
+UTC time,Act Air Density,Act Wind Direction,Act Wind Measurement Quality,Act Wind Speed km/u,Avg Absolute air pressure,Avg Air Temprature,Avg Dewpoint temperature,Avg Relative humidity,Avg Wind Speed km/u,Precipitation Intensity mm/h,Precipitation Type
+01:00,1.213184,0,100,0,1023.687,18.67203,16.6894,88.26124,0,0,No precipitation
+01:05,1.21312,0,100,0,1023.668,18.75257,16.72451,88.01412,0,0,No precipitation
+01:10,1.213386,0,100,0,1023.661,18.67481,16.60561,87.77773,0,0,No precipitation
+01:15,1.213525,0,100,0,1023.644,18.65815,16.65734,88.15826,0,0,No precipitation
+01:20,1.213597,0,100,0,1023.712,18.65258,16.67321,88.27781,0,0,No precipitation
+01:25,1.214007,0,100,0,1023.6,18.53802,16.55365,88.24011,0,0,No precipitation
+01:30,1.214186,0,100,0,1023.545,18.4987,16.56,88.4932,0,0,No precipitation
+01:35,1.214272,0,100,0,1023.542,18.46216,16.56714,88.73611,0,0,No precipitation
+01:40,1.213831,0,100,0,1023.528,18.4734,16.62366,88.99253,0,0,No precipitation
+01:45,1.213294,0,100,0,1023.557,18.61629,16.76876,89.01643,0,0,No precipitation
+01:50,1.212817,0,100,0,1023.465,18.72481,16.80293,88.60648,0,0,No precipitation
+01:55,1.213751,0,100,0,1023.437,18.66917,16.68054,88.22746,0,0,No precipitation

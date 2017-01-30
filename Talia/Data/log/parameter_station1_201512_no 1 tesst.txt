@@ -1,0 +1,3 @@
+Station no.	Date	Time	Vmpp	Impp	Pmpp	Voc	Isc	FF	G	Tmodul	G_pyranometer	V Range	I Range	Scan Rate	
+			[V]	[A]	[W]	[V]	[A]	[%]	[W/m²]	[°C]	[W/m²]			[S/sec.]	
+1	14.12.2015	12:09:00	0,000	0,0000	0,000	NaN	NaN	NaN	NaN	11,0	26,8	0	0	6000

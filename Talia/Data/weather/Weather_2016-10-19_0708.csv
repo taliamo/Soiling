@@ -1,0 +1,7 @@
+Channel->,310,500,805,405,360,160,170,260,465,820,700
+UTC time,Act Air Density,Act Wind Direction,Act Wind Measurement Quality,Act Wind Speed km/u,Avg Absolute air pressure,Avg Air Temprature,Avg Dewpoint temperature,Avg Relative humidity,Avg Wind Speed km/u,Precipitation Intensity mm/h,Precipitation Type
+07:10,1.228342,276.0779,100,3.045576,1009.588,11.88638,9.925051,87.79158,4.607193,1.5,Liquid precipitation
+07:15,1.227839,326.7405,100,2.044005,1009.508,11.87694,9.986877,88.21027,2.791503,0.2,Liquid precipitation
+07:20,1.227959,336.1073,100,1.986425,1009.402,11.88544,10.04875,88.52617,3.314636,2.8,Liquid precipitation
+07:25,1.228525,321.0161,100,3.558174,1009.38,11.77288,9.935076,88.51003,3.320099,2.1,Liquid precipitation
+07:30,1.228053,343.9908,100,3.173408,1009.31,11.8183,9.991172,88.57713,2.91673,0,No precipitation

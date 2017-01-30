@@ -1,0 +1,3 @@
+Channel->,160,170,260,360,310,465,405,500,805
+UTC time,avg temp °C,avg dewpoint °C,avg humidity %,avg air pressure hPA,avg air density KG/m3 ,avg wind speed KM/h,act wind speed KM/h,act wind dir °,wind measurement quality %
+08:00,9.183055,3.931248,69.70271,1022.878,1.258333,3.159285,1.366494,1.128357,100
